@@ -45,7 +45,7 @@
 
 
 ## 4. To do list...
-Inception_V3, Inception_V4
+Inception_V3, Inception_V4...
 
 
 
